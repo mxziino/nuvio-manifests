@@ -1096,8 +1096,7 @@
       "tagColor": "#00000000",
       "tagStyle": "filled",
       "textColor": "#FFFFFF",
-      "type": "filter",
-      "imageURL": ""
+      "type": "filter"
     },
     {
       "borderColor": "#FF0055A4",
