@@ -1015,12 +1015,11 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FF1A75FF",
+      "borderColor": "#FF0066FF",
       "groupId": "gl",
       "id": "l-lat",
-      "imageURL": "https://raw.githubusercontent.com/mxziino/nuvio-manifests/main/images/es-mx-badge.png",
       "isEnabled": true,
-      "name": "LAT",
+      "name": "LATINO",
       "pattern": "(?i)(?<![^\\s\\[(_\\-.,])(latino|lat|latam|repack[ .\\-_]?lat)(?![ .\\-_]?sub(title)?s?)(?=[\\s\\)\\]_.\\-,]|$)",
       "tagColor": "#00000000",
       "tagStyle": "filled and bordered",
